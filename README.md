@@ -10,7 +10,7 @@ Dependencies:
 * [tensorflow](https://www.tensorflow.org/?hl=ko) : 2.6.0
 * [numpy](https://docs.pyvista.org/) : 1.19.2
 * [pyvista](https://docs.pyvista.org/) : 0.34.2
-* [pyvistaqt] : 0.5.1
+* [pyvistaqt](https://qtdocs.pyvista.org/) : 0.5.1
 * [simpy](https://simpy.readthedocs.io/en/latest/) : 4.0.1
 
 ## Performance
