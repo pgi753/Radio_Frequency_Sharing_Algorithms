@@ -1,6 +1,6 @@
 # Radio_Frequency_Sharing_Algorithms
 
-## DES-Communication simulator
+## DES-based Communication simulator
 
 <img src="https://user-images.githubusercontent.com/65005179/176996743-a8ebabfb-8315-486f-9947-88c2e1b8186f.gif" width="80%" height="80%"/>
 
