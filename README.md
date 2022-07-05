@@ -29,12 +29,13 @@ And, you can also use  `main_reinforce_player_torch.py` or `main_a2c_player_torc
 
 ## Result and Performance
 ### Success rate
-<img src="https://user-images.githubusercontent.com/65005179/175872155-5a3408ba-d68f-4ecc-b149-f6977d52fc1c.png" width="70%" height="70%"/>
-<img src="https://https://user-images.githubusercontent.com/65005179/177290231-b14e44ba-c199-477d-83b2-439f818d9073.png">
+<img src="https://user-images.githubusercontent.com/65005179/175872155-5a3408ba-d68f-4ecc-b149-f6977d52fc1c.png" width="60%" height="60%"/>
+<img src="https://user-images.githubusercontent.com/65005179/177290231-b14e44ba-c199-477d-83b2-439f818d9073.png" width="60%" height="60%"/>
 
 
 ### Failure rate
-![image](https://user-images.githubusercontent.com/65005179/175872806-76ec7f55-14c9-470c-a9df-e0fe6807f5bc.png)
+<img src="https://user-images.githubusercontent.com/65005179/175872806-76ec7f55-14c9-470c-a9df-e0fe6807f5bc.png" width="60%" height="60%"/>
+<img src="https://user-images.githubusercontent.com/65005179/177290898-38f5abcf-0a79-4a66-bd6d-9a39b2d6c11e.png" width="60%" height="60%"/>
 
 
 
